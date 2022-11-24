@@ -1,1 +1,52 @@
 Linux max-Virtual-Machine 5.15.0-52-generic #58-Ubuntu SMP Thu Oct 13 08:03:55 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        5610624 kB
+MemFree:          118896 kB
+MemAvailable:    4090152 kB
+Buffers:           59576 kB
+Cached:          3994344 kB
+SwapCached:           96 kB
+Active:          2377332 kB
+Inactive:        2625912 kB
+Active(anon):       1628 kB
+Inactive(anon):   972956 kB
+Active(file):    2375704 kB
+Inactive(file):  1652956 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       3991548 kB
+SwapFree:        3990256 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:        949324 kB
+Mapped:           395228 kB
+Shmem:             25260 kB
+KReclaimable:     236188 kB
+Slab:             335492 kB
+SReclaimable:     236188 kB
+SUnreclaim:        99304 kB
+KernelStack:        7360 kB
+PageTables:        16720 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     6796860 kB
+Committed_AS:    4221712 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       48408 kB
+VmallocChunk:          0 kB
+Percpu:             3968 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      257328 kB
+DirectMap2M:     6033408 kB
+DirectMap1G:           0 kB
